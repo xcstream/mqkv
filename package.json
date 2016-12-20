@@ -1,0 +1,23 @@
+{
+  "name": "mqkv",
+  "version": "1.0.0",
+  "description": "a key value storeage",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xcstream/mqkv.git"
+  },
+  "author": "xcstream",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xcstream/mqkv/issues"
+  },
+  "homepage": "https://github.com/xcstream/mqkv#readme",
+  "dependencies": {
+    "mosca": "^2.2.0",
+    "mqtt": "^2.1.3"
+  }
+}
